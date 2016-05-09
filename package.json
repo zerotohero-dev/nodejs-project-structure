@@ -1,0 +1,34 @@
+{
+  "name": "nodejs-project-structure",
+  "version": "0.1.0",
+  "description": "A sample Node.JS Project File and Folder Structure",
+  "main": "index.js",
+  "bin": {
+    "nodejs-project-structure": "build.js"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./bin/test.js",
+    "build": "./bin/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsbites/nodejs-project-structure.git"
+  },
+  "keywords": [
+    "node.js",
+    "folder",
+    "file",
+    "sample",
+    "demo",
+    "structure"
+  ],
+  "author": "Volkan Ozcelik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsbites/nodejs-project-structure/issues"
+  },
+  "homepage": "https://github.com/jsbites/nodejs-project-structure#readme"
+}
