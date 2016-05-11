@@ -13,7 +13,7 @@
 |_____|_| |_| |___|___|_| |___|_| |___|
 ```
 
-The MIT License (MIT)
+## The MIT License (*MIT*)
 
 Copyright © [Volkan Özçelik](me@volkan.io) and contributors.
 
