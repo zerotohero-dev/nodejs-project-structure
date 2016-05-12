@@ -19,7 +19,7 @@ A sample folder structure for a **Node.JS** project.
 
 ## About This Repository
 
-This repository is a part of [Byte-Sized JavaScript Weekly VideoCast][vidcast].
+This repository is a part of [Byte-Sized JavaScript Bi-Weekly VideoCast][vidcast].
 
 ```
   _               __
@@ -35,7 +35,7 @@ This repository is a part of [Byte-Sized JavaScript Weekly VideoCast][vidcast].
 
 [Byte-Sized JavaScript][vidcast].
 
-It is a compilation of short (*more or less five minutes long*) weekly screencasts about **JavaScript** and related technologies.
+It is a compilation of short (*more or less five minutes long*) bi-weekly screencasts about **JavaScript** and related technologies.
 
 ## Contact Information
 
