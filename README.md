@@ -1,14 +1,14 @@
 ```
- _____       _          __ _____       
-|   | |___ _| |___   __|  |   __|      
-| | | | . | . | -_|_|  |  |__   |      
-|_|___|___|___|___|_|_____|_____|      
- _____           _         _           
-|  _  |___ ___  |_|___ ___| |_         
-|   __|  _| . | | | -_|  _|  _|        
-|__|  |_| |___|_| |___|___|_|          
+ _____       _          __ _____
+|   | |___ _| |___   __|  |   __|
+| | | | . | . | -_|_|  |  |__   |
+|_|___|___|___|___|_|_____|_____|
+ _____           _         _
+|  _  |___ ___  |_|___ ___| |_
+|   __|  _| . | | | -_|  _|  _|
+|__|  |_| |___|_| |___|___|_|
  _____ _      |___|    _
-|   __| |_ ___ _ _ ___| |_ _ _ ___ ___ 
+|   __| |_ ___ _ _ ___| |_ _ _ ___ ___
 |__   |  _|  _| | |  _|  _| | |  _| -_|
 |_____|_| |_| |___|___|_| |___|_| |___|
 ```
@@ -35,7 +35,32 @@ This repository is a part of [Byte-Sized JavaScript Bi-Weekly VideoCast][vidcast
 
 [Byte-Sized JavaScript][vidcast].
 
-It is a compilation of short (*more or less five minutes long*) bi-weekly screencasts about **JavaScript** and related technologies.
+It is a compilation of short (*around ten minutes*) monthly screencasts about **JavaScript** and related technologies.
+
+[vidcast]: https://bytesized.tv/ "ByteSized.TV"
+
+## About the “Node.JS Project Structure” Project Structure
+
+Node.JS projects do not have a hard-and-fast folder structure.
+
+This repository is one of the many ways a typical Node.JS project can be structured.
+
+## Wanna Help?
+
+Any help is more than appreciated.
+
+If you want to contribute to the source code, **fork this repository** and **create a pull request**.
+
+> In lieu of a formal style guide, take care to maintain the existing coding style.
+
+Also, don’t forget to add unit tests for any new or changed functionality.
+
+If you want to report a bug; or share a comment or suggestion, [file an issue](https://github.com/jsbites/nodejs-project-structure/issues/new).
+
+## I’ve Found a Bug; I Have an Idea
+
+[For bug reports and suggestions, please file an issue](https://github.com/jsbites/nodejs-project-structure/issues/new).
+
 
 ## Contact Information
 

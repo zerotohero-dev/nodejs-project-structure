@@ -1,14 +1,14 @@
 ```
- _____       _          __ _____       
-|   | |___ _| |___   __|  |   __|      
-| | | | . | . | -_|_|  |  |__   |      
-|_|___|___|___|___|_|_____|_____|      
- _____           _         _           
-|  _  |___ ___  |_|___ ___| |_         
-|   __|  _| . | | | -_|  _|  _|        
-|__|  |_| |___|_| |___|___|_|          
+ _____       _          __ _____
+|   | |___ _| |___   __|  |   __|
+| | | | . | . | -_|_|  |  |__   |
+|_|___|___|___|___|_|_____|_____|
+ _____           _         _
+|  _  |___ ___  |_|___ ___| |_
+|   __|  _| . | | | -_|  _|  _|
+|__|  |_| |___|_| |___|___|_|
  _____ _      |___|    _
-|   __| |_ ___ _ _ ___| |_ _ _ ___ ___ 
+|   __| |_ ___ _ _ ___| |_ _ _ ___ ___
 |__   |  _|  _| | |  _|  _| | |  _| -_|
 |_____|_| |_| |___|___|_| |___|_| |___|
 ```
@@ -18,7 +18,7 @@
 Copyright © [Volkan Özçelik](me@volkan.io) and contributors.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
+of this software and associated documentation files (the “Software”), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
