@@ -65,11 +65,11 @@ If you want to report a bug; or share a comment or suggestion, [file an issue](h
 ## Contact Information
 
 * **Project Owner**: [Volkan Özçelik](mailto:me@volkan.io)
-* **Project Website**: <https://volkan.io>
+* **Project Website**: [bytesized.tv](https://bytesized.tv/)
 
 ## License
 
-MIT-licensed. — See [the license file](LICENSE.md) for details.
+MIT-licensed. — [See the license file for details](LICENSE.md).
 
 ## Code of Conduct
 
@@ -77,6 +77,6 @@ We, as the community behind this project, are committed to making participation 
 
 [See the code of conduct](CODE_OF_CONDUCT.md) for more details.
 
-[vidcast]: https://www.youtube.com/channel/UC8OLZSlFO8cwRo9M30v-TkA
-[ticket]: https://github.com/jsbites/babil/issues/new
+[vidcast]: https://bytesized.tv/
+[ticket]: https://github.com/jsbites/nodejs-project-structure/issues/new
 
