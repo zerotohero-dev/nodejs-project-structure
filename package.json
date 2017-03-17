@@ -25,7 +25,7 @@
     "demo",
     "structure"
   ],
-  "author": "Volkan Ozcelik",
+  "author": "Volkan Özçelik <me@volkan.io> (https://volkan.io/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jsbites/nodejs-project-structure/issues"
