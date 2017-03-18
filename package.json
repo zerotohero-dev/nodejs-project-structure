@@ -1,6 +1,6 @@
 {
   "name": "nodejs-project-structure",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A sample Node.JS Project File and Folder Structure",
   "main": "index.js",
   "bin": {
@@ -13,10 +13,7 @@
     "test": "./bin/test.js",
     "build": "./bin/build.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jsbites/nodejs-project-structure.git"
-  },
+  "repository": "git+https://github.com/jsbites/nodejs-project-structure.git",
   "keywords": [
     "node.js",
     "folder",
