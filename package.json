@@ -1,6 +1,6 @@
 {
   "name": "nodejs-project-structure",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A sample Node.JS Project File and Folder Structure",
   "main": "index.js",
   "bin": {
@@ -15,12 +15,23 @@
   },
   "repository": "git+https://github.com/jsbites/nodejs-project-structure.git",
   "keywords": [
-    "node.js",
-    "folder",
+    "byte-sized javascript",
+    "byte-sized",
+    "bytesized.tv",
+    "demos",
+    "education",
     "file",
+    "folder structure",
+    "javascript",
+    "learning",
+    "node.js",
+    "podcast",
     "sample",
-    "demo",
-    "structure"
+    "screencast",
+    "tutorials",
+    "vidcast",
+    "videocast",
+    "videos"
   ],
   "author": "Volkan Özçelik <me@volkan.io> (https://volkan.io/)",
   "license": "MIT",
