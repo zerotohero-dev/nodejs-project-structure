@@ -1,6 +1,6 @@
 {
   "name": "nodejs-project-structure",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A sample Node.JS Project File and Folder Structure",
   "main": "index.js",
   "bin": {
@@ -38,5 +38,5 @@
   "bugs": {
     "url": "https://github.com/jsbites/nodejs-project-structure/issues"
   },
-  "homepage": "https://github.com/jsbites/nodejs-project-structure#readme"
+  "homepage": "https://bytesized.tv/"
 }
