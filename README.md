@@ -17,28 +17,6 @@
 
 A sample folder structure for a **Node.JS** project.
 
-## About This Repository
-
-This repository is a part of [Byte-Sized JavaScript Bi-Weekly VideoCast][vidcast].
-
-```
-  _               __
- |_)   _|_  _ __ (_  o _   _   _|
- |_) \/ |_ (/_   __) | /_ (/__(_|
-     /        |  _.     _. (_   _ ._ o ._ _|_
-            \_| (_| \/ (_| __) (_ |  | |_) |_
-                                       |
-            »»  bit.ly/bytesized  ««
-```
-
-## Byte-Sized What?!
-
-[Byte-Sized JavaScript][vidcast].
-
-It is a compilation of short (*around ten minutes*) monthly screencasts about **JavaScript** and related technologies.
-
-[vidcast]: https://bytesized.tv/ "ByteSized.TV"
-
 ## About the “Node.JS Project Structure” Project Structure
 
 Node.JS projects do not have a hard-and-fast folder structure.
@@ -79,4 +57,14 @@ We, as the community behind this project, are committed to making participation 
 
 [vidcast]: https://bytesized.tv/
 [ticket]: https://github.com/jsbites/nodejs-project-structure/issues/new
+
+## A [ByteSized.TV][vidcast] Project
+
+This repository is a part of the [Byte-Sized JavaScript VideoCasts][vidcast].
+
+It is a compilation of short (*around ten minutes*) screencasts about **JavaScript** and related technologies.
+
+[**Learn**, **explore**, and **have fun**][vidcast]!
+
+[vidcast]: https://bytesized.tv/ "ByteSized.TV"
 
